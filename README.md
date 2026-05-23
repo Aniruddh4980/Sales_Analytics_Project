@@ -147,6 +147,6 @@ Relationships are managed in the Power Pivot data model, enabling cross-table DA
 
 ## Contact
 
-Built by **Aniruddh Galande** | [LinkedIn](linkedin.com/in/aniruddhgalande) | [GitHub](https://github.com/Aniruddh4980)
+Built by **Aniruddh Galande** | [LinkedIn](https://www.linkedin.com/in/aniruddhgalande/) | [GitHub](https://github.com/Aniruddh4980)
 
 > *This project is part of a data analytics portfolio. All data is fictional and used solely for learning purposes.*
